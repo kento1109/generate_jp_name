@@ -3,12 +3,12 @@
 
 LSTMで日本人の名前を生成します。
 
-## 学習
+### 学習
 ```
 python train.py
 ```
 
-## 生成
+### 生成
 ```
 python generate.py
 アヤ
